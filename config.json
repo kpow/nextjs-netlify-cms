@@ -1,19 +1,9 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
+  "base_url": "https://eager-goldberg-ec540f.netlify.app/",
+  "site_title": "kpow netlify cms test",
   "site_description": "Next.js blog template for Netlify",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@koolyp",
+  "github_account": "kpow"
 }
